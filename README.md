@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Hi im Vinh. Call me Vidikun!
